@@ -1,0 +1,78 @@
+.mb-4 {
+  margin-bottom: 8px;
+}
+.mb-1rem {
+  margin-bottom: 16px;
+}
+.mb-2rem {
+  margin-bottom: 32px;
+}
+.mb-3rem {
+  margin-bottom: 48px;
+}
+.mb-5rem {
+  margin-bottom: 80px;
+}
+.mb-7rem {
+  margin-bottom: 112px;
+}
+.center {
+  text-align: center;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.link {
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+  text-transform: capitalize;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: orange;
+}
+
+.block {
+  display: block;
+}
+
+.error-msg {
+  margin: 0;
+  color: red;
+  font-size: 16px;
+}
+
+.success {
+  background-color: rgb(186, 250, 186);
+  color: rgb(2, 96, 2);
+  padding: 8px;
+  width: 100%;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.failure {
+  background-color: rgb(233, 191, 171);
+  color: rgb(238, 89, 15);
+  padding: 8px;
+  width: 100%;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.mt-2rem {
+  margin-top: 32px;
+}
